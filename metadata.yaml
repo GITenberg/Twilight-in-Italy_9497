@@ -1,5 +1,8 @@
 _repo: Twilight-in-Italy_9497
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lawrence, D. H. (David Herbert)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9497#Twilight-in-Italy
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
